@@ -25,7 +25,7 @@ private:
 
 Case::Case()
 {
-	int a = 0;
+
 	
 }
 
